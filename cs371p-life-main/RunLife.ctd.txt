@@ -1,0 +1,14 @@
+# t: number of test cases
+INT(1, 100, t) NEWLINE NEWLINE
+REP(t, STRING("\n\n"))
+    # r, c: number of rows and cols
+    INT(1, 200, r) SPACE INT(1, 200, c) NEWLINE
+    # n: number of live cells
+    INT(1, 700, n) NEWLINE
+    REP(n, NEWLINE)
+        INT(0, r-1) SPACE INT(0, c-1)
+    END NEWLINE
+    # s, f: number of simulations and frequency of output
+    INT(1, 2000, s) SPACE INT(1, 200, f)
+END
+NEWLINE

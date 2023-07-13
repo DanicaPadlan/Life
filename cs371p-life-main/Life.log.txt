@@ -1,0 +1,227 @@
+commit c055c4c57d6200978eb66a479944b2f6d66339f3
+Author: Austin Nguyen <austincn@cs.utexas.edu>
+Date:   Mon Dec 5 18:25:37 2022 -0600
+
+    cleaned up project
+
+commit aa3d2e4430678a1166304299f64aa0ab6fc4d057
+Author: Austin Nguyen <austincn@cs.utexas.edu>
+Date:   Mon Dec 5 18:17:03 2022 -0600
+
+    some finishing touches
+
+commit 5e465cb8e65436cd1136994174decd63a17bcd47
+Author: Austin Nguyen <austincn@cs.utexas.edu>
+Date:   Mon Dec 5 18:02:37 2022 -0600
+
+    deleting unnecessary files
+
+commit d8ce1b3372662b6d4e5618434df04c405b9423ad
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Mon Dec 5 17:57:09 2022 -0600
+
+    finalized and saved Life.png UML graph
+
+commit 33752ff68e119801f65d976ae54606a372c1785b
+Author: Austin Nguyen <austincn@cs.utexas.edu>
+Date:   Mon Dec 5 17:47:39 2022 -0600
+
+    unit tests done
+
+commit df4e28504b4f41482480338163de7f488b701602
+Author: Austin Nguyen <austincn@cs.utexas.edu>
+Date:   Mon Dec 5 17:32:57 2022 -0600
+
+    finished unit tests, working on deallocating all memorem memory
+
+commit 355c86c3c104b9e0c273977a30ebce77357c00fb
+Author: Austin Nguyen <austincn@cs.utexas.edu>
+Date:   Mon Dec 5 16:24:37 2022 -0600
+
+    added some unit tests
+
+commit 6163b7c8fe3ec8ee54d17ea73d61642205685c27
+Author: Austin Nguyen <austincn@cs.utexas.edu>
+Date:   Mon Dec 5 16:23:50 2022 -0600
+
+    testing push
+
+commit 682eaeca312bbaa2e1c8c8b874f1284c6d386174
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Mon Dec 5 16:16:07 2022 -0600
+
+    changed makefile to compile TestLife, merge requested acceptance tests
+
+commit 5fa2323f9030fb3c7f8fef7d762f8ba9e225931d
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Mon Dec 5 16:09:12 2022 -0600
+
+    passed all acceptance and pushing our acceptance tests to private test repo
+
+commit 7f8e41eb97689fefb2103313f96e4e8fa8152f17
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Mon Dec 5 13:03:35 2022 -0600
+
+    fixed ctd-generate, trying to get run-all to work
+
+commit b9254e0c4a8fa58edf221a26fc2fd618c520e58e
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Mon Dec 5 02:20:46 2022 -0600
+
+    added .ctd but makefile wont run it, revised uml.txt file
+
+commit 944217f45826442827eb4a9db33df370195653af
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Mon Dec 5 01:56:15 2022 -0600
+
+    created a destructor method for Life's grid
+
+commit 2b5e19382226fc4791705b53c8bd39bed967f083
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Mon Dec 5 01:07:11 2022 -0600
+
+    added comments above methods
+
+commit 4475d925eda025d7427772b79d847f3851813ed5
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Sun Dec 4 18:17:16 2022 -0600
+
+    made notes on what methods to test in TestLife.cpp
+
+commit 2b927f62d6f99542b935c79035b4f4309c453bce
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Sun Dec 4 18:01:09 2022 -0600
+
+    cleaned up code and took out debugging statements, no descriptive comments yet
+
+commit b75b76a47862c1f96c92890477372a62ffca8e37
+Author: Austin Nguyen <austincn@cs.utexas.edu>
+Date:   Sun Dec 4 02:31:16 2022 -0600
+
+    YAY we pass all tests we are collective GOAT
+
+commit 277e7a08b83181169646505365a7e938d631c4e9
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Sat Dec 3 17:51:34 2022 -0600
+
+    passed all conway tests on HR >:)
+
+commit 08f482a1b3a3cee91adf63ed053328da142d58b6
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Sat Dec 3 17:39:30 2022 -0600
+
+    changed up runLife(), simple case passes, about to run in HR
+
+commit 358ee46a0eb696433be6e1c5f6e7b787440ce66d
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Sat Dec 3 17:02:09 2022 -0600
+
+    first output is correct working on second output
+
+commit 84595a85455509e46b2a08a1c3f0cb0c921f3a03
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Sat Dec 3 16:31:45 2022 -0600
+
+    fixed printing format
+
+commit 9d77423934678eba2a8c3ab4e23c49dc75e76e27
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Sat Dec 3 16:08:38 2022 -0600
+
+    Life constructor and map can print out now YEAAAAAAAAA
+
+commit 2fcdb58b19865aa823f947c88abb9ca5f8c5fb1e
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Thu Dec 1 17:10:06 2022 -0600
+
+    found segfault problem
+
+commit 1c163e60bf452cfb05d6d5fb2c7acb948535ec6c
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Thu Dec 1 16:32:52 2022 -0600
+
+    segfault in main method unclear why
+
+commit 1c158a8571d8206685426ef0a32cd3de2b376ada
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Thu Dec 1 15:34:37 2022 -0600
+
+    fixed errors can move on with code now lol
+
+commit 4b0f56ca8d74315a8b44a46f9761df0b48fdf253
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Wed Nov 30 20:43:23 2022 -0600
+
+    fixed makefile
+
+commit 28bafc6bfc03a1e5173a149c7d4a2c8c5b2ba485
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Tue Nov 29 18:29:39 2022 -0600
+
+    worked more on Life and Conway
+
+commit 62eeb6894a79b25c4f19f462b0ad046171f6e029
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Tue Nov 29 15:24:26 2022 -0600
+
+    fixed clone for ConwayCell
+
+commit e6f27f867d04bbb460d362c9a3eba62b932bf52e
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Tue Nov 29 15:08:01 2022 -0600
+
+    fixed FILES in makefile
+
+commit 67ec53b58a11015721c419af54e466a4b9edfb9c
+Author: Austin Nguyen <austincn@cs.utexas.edu>
+Date:   Mon Nov 28 16:32:55 2022 -0600
+
+    started stuff
+
+commit 6224356f3e3c8f2dffcf6d06c6e17758abfbca78
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Tue Nov 22 23:49:17 2022 -0600
+
+    tried messing with makefile more but still meh
+
+commit 06d91ed5ee8752eae1707e5dd672a40166ee68d3
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Tue Nov 22 22:32:11 2022 -0600
+
+    still messing with makefile but make all not working still
+
+commit 9a3f1edd71806b7892c6d33b871b4fb786076ec5
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Tue Nov 22 21:56:45 2022 -0600
+
+    changed FredkinCell filename and having troouble with make file
+
+commit 77bf0747bca37c7add0f97bde2ff5509cb063b71
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Tue Nov 22 21:02:30 2022 -0600
+
+    made empty files and makefile, NOTE: makefile not updated
+
+commit 1f95e564d550703535c39915f93148a74cd88c08
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Tue Nov 22 20:54:48 2022 -0600
+
+    updated README
+
+commit ab75dee4666064c82bec951356a8a2eda0911e42
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Tue Nov 22 20:50:07 2022 -0600
+
+    added gitignore file
+
+commit 7aa150c85a62a0a0730bde9c5b9c69f210570af9
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Tue Nov 22 16:34:52 2022 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 33126141ad4cf7f9ad8130bdd2920137f023bf79
+Author: DanicaPadlan <danica_padlan@yahoo.com>
+Date:   Tue Nov 22 16:33:14 2022 +0000
+
+    Initial commit

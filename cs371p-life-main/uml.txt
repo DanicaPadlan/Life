@@ -1,0 +1,71 @@
+@startuml
+Life         *-   "*" Cell
+Life         *-   "*" CoordPair
+Cell         *-   "1" AbstractCell
+AbstractCell <|-- ConwayCell
+AbstractCell <|-- FredkinCell
+
+class Life<T> {
+    - vector<vector<Cell*>> _grid
+    + Life(int x, int y, vector<CoordPairs> coords, vector<AbstractCell*> starting_cells, bool init_conway)
+    + bool inbounds(int curR, int curC)
+    + int checkAliveNeighbors(int curR, int curC, bool conway)
+    + void runLife(bool testingCell)
+    + int countLife()
+    + void eval (int totalGen, int printFreq, bool testingCell)
+    + void print ()
+    }
+
+class CoordPair{
+    - int x_coord
+    - int y_coord
+}
+
+class Cell {
+    - AbstractCell* _p
+    + Cell (AbstractCell*)
+    + Cell (const Cell&)
+    + Cell (Cell&&)
+    + Cell& operator = (const Cell&)
+    + Cell& operator = (Cell&&)
+    + ~Cell ()
+    + evolve ()
+    + bool is_Conway()
+    + bool is_alive()
+    + void changeCell(AbstractCell* newCell)
+    + int getFredkinAge()
+    + void updateAge()
+    }
+
+abstract class AbstractCell {
+    - bool alive
+    - bool is_conway
+    + AbstractCell(bool state, bool cell_type)
+    + virtual ~AbstractCell ()
+    + {abstract} virtual AbstractCell* clone () const = 0
+    + {abstract} virtual evolve () = 0
+    + bool is_Conway();
+    + bool is_alive();
+    + virtual int getAge() = 0;
+    + virtual void updateAge() = 0;
+    }
+
+class ConwayCell {
+    + ConwayCell(bool state, bool conway)
+    + ConwayCell* clone() 
+    + void evolve ()
+    + int getAge();
+    + void updateAge();
+    }
+
+class FredkinCell {
+    - int _age
+    + FredkinCell (bool, int)
+    + FredkinCell* clone ()
+    + evolve ()
+    + void updateAge();
+    + int getAge();
+    + bool turnToConway();
+    }
+
+@enduml

@@ -1,0 +1,133 @@
+*** Life<FredkinCell> 2x4 ***
+
+Generation = 0, Population = 4.
+00--
+-00-
+
+Generation = 22, Population = 5.
++-+0
++--7
+
+Generation = 44, Population = 7.
+-0+0
+++++
+
+*** Life<FredkinCell> 4x9 ***
+
+Generation = 0, Population = 14.
+0-0--0-00
+-0----0--
+00--0----
+-00-0---0
+
+Generation = 19, Population = 15.
+4-4-3----
+5--1-8385
+--2-4----
+-4-9--4-4
+
+*** Life<FredkinCell> 9x6 ***
+
+Generation = 0, Population = 11.
+----0-
+------
+------
+--0-0-
+-0--00
+0----0
+------
+0-0-0-
+------
+
+Generation = 35, Population = 31.
+9--5-6
+---9--
+6-+775
+-49--4
+77+-+4
+5-++++
+-+5+77
+--6-9-
+--+4--
+
+Generation = 70, Population = 33.
+---+-+
++++++-
+++-+++
+-7-6+9
+++---+
++--+--
+8+8+-+
+++----
++-++++
+
+*** Life<FredkinCell> 5x4 ***
+
+Generation = 0, Population = 10.
+0---
+--00
+-00-
+--00
+-000
+
+Generation = 116, Population = 12.
++-+9
++++-
+-++-
++++-
+--+-
+
+*** Life<FredkinCell> 3x4 ***
+
+Generation = 0, Population = 8.
+0000
+-00-
+--00
+
+*** Life<FredkinCell> 7x7 ***
+
+Generation = 0, Population = 8.
+---0---
+------0
+00-0---
+-0---00
+-------
+-------
+-------
+
+*** Life<FredkinCell> 1x6 ***
+
+Generation = 0, Population = 6.
+000000
+
+*** Life<FredkinCell> 8x2 ***
+
+Generation = 0, Population = 12.
+0-
+0-
+00
+-0
+00
+00
+00
+-0
+
+Generation = 81, Population = 7.
+--
+-+
++-
+--
++-
+++
++-
+-+
+
+Generation = 162, Population = 10.
+-1
+--
++0
+++
++2
+--
++-
+++

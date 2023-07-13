@@ -1,0 +1,1078 @@
+*** Life<FredkinCell> 7x5 ***
+
+Generation = 0, Population = 12.
+0--0-
+-000-
+-0-0-
+-0--0
+-----
+-----
+000--
+
+Generation = 88, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 176, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 264, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 352, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 440, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 528, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 616, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 704, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 792, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 880, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 968, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 1056, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 1144, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 1232, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 1320, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 1408, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 1496, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 1584, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 1672, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 1760, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+Generation = 1848, Population = 15.
+--+++
+++-++
+-+-+-
++++--
+-----
+-----
++0+--
+
+*** Life<FredkinCell> 1x1 ***
+
+Generation = 0, Population = 1.
+0
+
+Generation = 115, Population = 0.
+-
+
+Generation = 230, Population = 0.
+-
+
+Generation = 345, Population = 0.
+-
+
+Generation = 460, Population = 0.
+-
+
+Generation = 575, Population = 0.
+-
+
+Generation = 690, Population = 0.
+-
+
+Generation = 805, Population = 0.
+-
+
+Generation = 920, Population = 0.
+-
+
+*** Life<FredkinCell> 5x10 ***
+
+Generation = 0, Population = 18.
+0---00-0--
+--0------0
+-00-00--0-
+-----0--00
+---000--0-
+
+Generation = 47, Population = 19.
+9-+-+-+-+6
+--++-7----
+--++++-+--
+6--------+
++7------+-
+
+Generation = 94, Population = 28.
++++++-+-++
+---++++-+-
+--+-++---+
++---++--+-
++--++++-++
+
+Generation = 141, Population = 30.
+--++++++++
++--++-+-++
+--+---++++
+-+++++-++-
+--++-+---+
+
+Generation = 188, Population = 23.
++++--+++-+
++-+-+--+--
+--+++---+-
+---+-++-+-
++--+-+--+-
+
+Generation = 235, Population = 22.
+++++++---+
++++-+--+--
++--+---+--
+--+----+--
+--+--+-+++
+
+Generation = 282, Population = 26.
++++--+++-+
+-++---++--
+++-++++--+
+---+++-++-
+----+-+--+
+
+Generation = 329, Population = 22.
++++--+++--
+-+-+-+++--
++---++----
++--+-+--++
+++-------+
+
+Generation = 376, Population = 24.
++---+---+-
++-+--+++-+
++--+++++++
+-+--+--+--
+--+-+---++
+
+Generation = 423, Population = 34.
++++++-+-+-
+++++-+++-+
+--+++--+++
++-+-++-+-+
+++++--++-+
+
+Generation = 470, Population = 29.
+++++----+-
+++++-+++++
+--+---++++
+-++-++--++
+---+--+-++
+
+Generation = 517, Population = 26.
+-++-+--++-
+---++++-++
++-++-+---+
+-++---+-+-
+++-++-+--+
+
+Generation = 564, Population = 31.
+--++-+++--
++--+--++++
+-++++---++
+-+++++++-+
++-+++++---
+
+Generation = 611, Population = 29.
++--++++---
++--+-+++++
++++-----++
++-++--++-+
++-++--+-++
+
+Generation = 658, Population = 25.
+-+--++++--
++--+-+-+-+
+-++--+-+++
+++---+--+-
++--+++--+-
+
+Generation = 705, Population = 20.
+++-+--+--+
+-++---+---
+++--+++++-
+++++------
+------+---
+
+Generation = 752, Population = 24.
+---+-+++--
+-++++----+
+-+++-+---+
++--+++-+++
+---++----+
+
+Generation = 799, Population = 25.
++---++-++-
+-++-++-+-+
+---+-++++-
+++-+--+-++
+---++--+--
+
+Generation = 846, Population = 33.
+++-+-++-+-
+-++--+-+-+
+-+-+++-++-
+-++--++++-
+++++++++++
+
+Generation = 893, Population = 22.
+--++-----+
+++++--+-+-
+-+-+++-++-
++---++----
+---+-+-+-+
+
+Generation = 940, Population = 21.
+--++-+-+++
++----+++--
+++----++--
+-+--++-+++
+-----+----
+
+Generation = 987, Population = 29.
++--++-++++
+++----++-+
+++--++++-+
+--+-++-+--
++++++----+
+
+Generation = 1034, Population = 24.
+-+--++-+++
++++-+--+-+
+-+--+-----
++++------+
+++--+-+++-
+
+Generation = 1081, Population = 21.
++----+-++-
++----+----
+-+---+---+
+---+++++--
+--++++-+++
+
+Generation = 1128, Population = 28.
+---+++-+--
+--+++-+-++
++---++-+--
+-++-+--+++
++++--+++++
+
+Generation = 1175, Population = 31.
++++++++-+-
+-++++++-++
++++-++-+--
++--+--+--+
+----+-++++
+
+Generation = 1222, Population = 27.
++-+--++++-
+++++-++--+
++-++-+---+
+++-++--+--
++--++--+--
+
+Generation = 1269, Population = 26.
+++--+++-++
+--++-+-+--
++-+++-----
+-++--+--++
+--+++--+++
+
+Generation = 1316, Population = 29.
+---++--++-
+++-+++++--
+-++-++-++-
+++-+-+--++
++-++-++-+-
+
+Generation = 1363, Population = 28.
++-+---++-+
++--++-+---
++++++-+---
+-++++++++-
+--+++++---
+
+Generation = 1410, Population = 21.
+---++-+-+-
++--+--+-+-
+-+----+-++
+----+-++-+
+++-+---++-
+
+*** Life<FredkinCell> 6x2 ***
+
+Generation = 0, Population = 3.
+--
+-0
+-0
+-0
+--
+--
+
+Generation = 197, Population = 7.
+-+
+0+
+0-
+0+
+-+
+--
+
+Generation = 394, Population = 4.
+-+
+--
+-+
+--
+-+
+-+
+
+Generation = 591, Population = 6.
+0-
+--
+0-
+--
+0+
+0+
+
+Generation = 788, Population = 3.
+-+
+--
+-+
+-+
+--
+--
+
+*** Life<FredkinCell> 5x7 ***
+
+Generation = 0, Population = 16.
+--00-00
+-----0-
+-00--00
+00-00--
+--0-0-0
+
+Generation = 166, Population = 17.
++--+++-
+--+--+0
+-----++
++--+-++
++--++-+
+
+Generation = 332, Population = 17.
+++--+++
+-+-----
+++-++-+
+--++-++
+---+-+-
+
+Generation = 498, Population = 17.
+-+++--+
+++--+--
+-++-+-+
+++-+--+
+---++--
+
+Generation = 664, Population = 13.
+-+--++-
+-----+-
+---+++-
+++-++--
+-+-+---
+
+Generation = 830, Population = 17.
++--+++-
+--+--+0
+-----++
++--+-++
++--++-+
+
+Generation = 996, Population = 17.
+++--+++
+-+-----
+++-++-+
+--++-++
+---+-+-
+
+*** Life<FredkinCell> 1x5 ***
+
+Generation = 0, Population = 2.
+0--0-
+
+Generation = 27, Population = 3.
+7-+6-
+
+Generation = 54, Population = 3.
++++--
+
+Generation = 81, Population = 3.
+-++-+
+
+Generation = 108, Population = 3.
+--+++
+
+Generation = 135, Population = 3.
++-++-
+
+Generation = 162, Population = 3.
++++--
+
+Generation = 189, Population = 3.
+-++-+
+
+Generation = 216, Population = 3.
+--+++
+
+Generation = 243, Population = 3.
++-++-
+
+Generation = 270, Population = 3.
++++--
+
+Generation = 297, Population = 3.
+-++-+
+
+Generation = 324, Population = 3.
+--+++
+
+Generation = 351, Population = 3.
++-++-
+
+Generation = 378, Population = 3.
++++--
+
+Generation = 405, Population = 3.
+-++-+
+
+Generation = 432, Population = 3.
+--+++
+
+Generation = 459, Population = 3.
++-++-
+
+Generation = 486, Population = 3.
++++--
+
+Generation = 513, Population = 3.
+-++-+
+
+Generation = 540, Population = 3.
+--+++
+
+Generation = 567, Population = 3.
++-++-
+
+Generation = 594, Population = 3.
++++--
+
+Generation = 621, Population = 3.
+-++-+
+
+Generation = 648, Population = 3.
+--+++
+
+Generation = 675, Population = 3.
++-++-
+
+Generation = 702, Population = 3.
++++--
+
+Generation = 729, Population = 3.
+-++-+
+
+Generation = 756, Population = 3.
+--+++
+
+*** Life<FredkinCell> 2x4 ***
+
+Generation = 0, Population = 7.
+-000
+0000
+
+Generation = 8, Population = 5.
+3-50
+5--2
+
+Generation = 16, Population = 4.
+80--
+-67-
+
+Generation = 24, Population = 7.
+-0+0
++8+8
+
+Generation = 32, Population = 5.
++-+0
++--+
+
+Generation = 40, Population = 4.
++0--
+-++-
+
+Generation = 48, Population = 7.
+-0+0
+++++
+
+Generation = 56, Population = 5.
++-+0
++--+
+
+Generation = 64, Population = 4.
++0--
+-++-
+
+Generation = 72, Population = 7.
+-0+0
+++++
+
+Generation = 80, Population = 5.
++-+0
++--+
+
+Generation = 88, Population = 4.
++0--
+-++-
+
+Generation = 96, Population = 7.
+-0+0
+++++
+
+Generation = 104, Population = 5.
++-+0
++--+
+
+Generation = 112, Population = 4.
++0--
+-++-
+
+Generation = 120, Population = 7.
+-0+0
+++++
+
+Generation = 128, Population = 5.
++-+0
++--+
+
+Generation = 136, Population = 4.
++0--
+-++-
+
+Generation = 144, Population = 7.
+-0+0
+++++
+
+Generation = 152, Population = 5.
++-+0
++--+
+
+Generation = 160, Population = 4.
++0--
+-++-
+
+Generation = 168, Population = 7.
+-0+0
+++++
+
+Generation = 176, Population = 5.
++-+0
++--+
+
+Generation = 184, Population = 4.
++0--
+-++-
+
+Generation = 192, Population = 7.
+-0+0
+++++
+
+Generation = 200, Population = 5.
++-+0
++--+
+
+Generation = 208, Population = 4.
++0--
+-++-
+
+Generation = 216, Population = 7.
+-0+0
+++++
+
+Generation = 224, Population = 5.
++-+0
++--+
+
+Generation = 232, Population = 4.
++0--
+-++-
+
+Generation = 240, Population = 7.
+-0+0
+++++
+
+Generation = 248, Population = 5.
++-+0
++--+
+
+Generation = 256, Population = 4.
++0--
+-++-
+
+Generation = 264, Population = 7.
+-0+0
+++++
+
+Generation = 272, Population = 5.
++-+0
++--+
+
+Generation = 280, Population = 4.
++0--
+-++-
+
+Generation = 288, Population = 7.
+-0+0
+++++
+
+Generation = 296, Population = 5.
++-+0
++--+
+
+Generation = 304, Population = 4.
++0--
+-++-
+
+Generation = 312, Population = 7.
+-0+0
+++++
+
+Generation = 320, Population = 5.
++-+0
++--+
+
+Generation = 328, Population = 4.
++0--
+-++-
+
+Generation = 336, Population = 7.
+-0+0
+++++
+
+Generation = 344, Population = 5.
++-+0
++--+
+
+Generation = 352, Population = 4.
++0--
+-++-
+
+Generation = 360, Population = 7.
+-0+0
+++++
+
+Generation = 368, Population = 5.
++-+0
++--+
+
+Generation = 376, Population = 4.
++0--
+-++-
+
+Generation = 384, Population = 7.
+-0+0
+++++
+
+Generation = 392, Population = 5.
++-+0
++--+
+
+Generation = 400, Population = 4.
++0--
+-++-
+
+Generation = 408, Population = 7.
+-0+0
+++++
+
+Generation = 416, Population = 5.
++-+0
++--+
+
+Generation = 424, Population = 4.
++0--
+-++-
+
+Generation = 432, Population = 7.
+-0+0
+++++
+
+Generation = 440, Population = 5.
++-+0
++--+
+
+Generation = 448, Population = 4.
++0--
+-++-
+
+Generation = 456, Population = 7.
+-0+0
+++++
+
+Generation = 464, Population = 5.
++-+0
++--+
+
+Generation = 472, Population = 4.
++0--
+-++-
+
+Generation = 480, Population = 7.
+-0+0
+++++
+
+Generation = 488, Population = 5.
++-+0
++--+
+
+Generation = 496, Population = 4.
++0--
+-++-
+
+Generation = 504, Population = 7.
+-0+0
+++++
+
+Generation = 512, Population = 5.
++-+0
++--+
+
+Generation = 520, Population = 4.
++0--
+-++-
+
+Generation = 528, Population = 7.
+-0+0
+++++
+
+Generation = 536, Population = 5.
++-+0
++--+
+
+Generation = 544, Population = 4.
++0--
+-++-
+
+Generation = 552, Population = 7.
+-0+0
+++++
+
+Generation = 560, Population = 5.
++-+0
++--+
+
+Generation = 568, Population = 4.
++0--
+-++-
+
+Generation = 576, Population = 7.
+-0+0
+++++
+
+Generation = 584, Population = 5.
++-+0
++--+
+
+Generation = 592, Population = 4.
++0--
+-++-
+
+Generation = 600, Population = 7.
+-0+0
+++++
+
+Generation = 608, Population = 5.
++-+0
++--+
+
+Generation = 616, Population = 4.
++0--
+-++-
+
+Generation = 624, Population = 7.
+-0+0
+++++
+
+Generation = 632, Population = 5.
++-+0
++--+
+
+Generation = 640, Population = 4.
++0--
+-++-
+
+*** Life<FredkinCell> 9x2 ***
+
+Generation = 0, Population = 6.
+0-
+-0
+0-
+-0
+-0
+--
+--
+--
+-0
+
+Generation = 76, Population = 7.
+-+
+--
+--
+-7
++-
+-+
+++
+-6
+--
+
+Generation = 152, Population = 11.
+++
+-+
++-
+--
+++
+-+
+++
+-+
+-+
+
+Generation = 228, Population = 6.
++-
+-+
++-
+-+
+-+
+--
+--
+--
+-+
+
+Generation = 304, Population = 7.
+-+
+--
+--
+-+
++-
+-+
+++
+-+
+--
+
+Generation = 380, Population = 11.
+++
+-+
++-
+--
+++
+-+
+++
+-+
+-+
+
+Generation = 456, Population = 6.
++-
+-+
++-
+-+
+-+
+--
+--
+--
+-+
+
+Generation = 532, Population = 7.
+-+
+--
+--
+-+
++-
+-+
+++
+-+
+--
+
+Generation = 608, Population = 11.
+++
+-+
++-
+--
+++
+-+
+++
+-+
+-+
+
+Generation = 684, Population = 6.
++-
+-+
++-
+-+
+-+
+--
+--
+--
+-+
+
+Generation = 760, Population = 7.
+-+
+--
+--
+-+
++-
+-+
+++
+-+
+--
